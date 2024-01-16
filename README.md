@@ -1,6 +1,6 @@
 <br/>
 <p align="center">
-  <a href="https://github.com/rajsinghast03/moviesHub">
+  <a href="https://github.com/rajsinghast03/react-pizza">
     <img src="./public/emoji_image.png" alt="Logo" width="80" height="80">
   </a>
 
